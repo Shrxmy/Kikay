@@ -66,6 +66,7 @@ p > img {
     height: 31em;
     align-items: center;
     padding: 0.2em 0.6em;
+    border-radius: 10%;
 }
 
 ul {
